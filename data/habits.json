@@ -4,5 +4,53 @@
     "name": "eating",
     "streak": 1,
     "lastCompleted": "2025-11-22"
+  },
+  {
+    "id": "7788ac44-ce0a-4a92-b814-61102460f4f4",
+    "name": "eating",
+    "streak": 1,
+    "lastCompleted": "2025-11-22"
+  },
+  {
+    "id": "5e05cc83-4320-473e-a34d-1ae899bd820c",
+    "name": "eating",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "d6b5e214-36a1-4440-b525-c3633f0d97ef",
+    "name": "eating",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "d3e46a85-5052-43e5-9428-96b120b8808e",
+    "name": "eating",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "696b7061-39b0-4dc7-9128-cac89edefb5d",
+    "name": "eating",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "4e807be3-a10e-435e-8c5e-896fcdb205b4",
+    "name": "water",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "524e62f8-2aa4-4bcf-9ad8-7bb78fe4bdbf",
+    "name": "eating",
+    "streak": 0,
+    "lastCompleted": null
+  },
+  {
+    "id": "96f2ee3f-f3fa-4e2b-bb20-0bc89fada392",
+    "name": "having water",
+    "streak": 0,
+    "lastCompleted": null
   }
 ]

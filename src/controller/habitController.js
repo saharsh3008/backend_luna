@@ -1,4 +1,4 @@
-// src/controller/habitController.js
+
 import * as habitService from "../services/habitService.js";
 
 export const list = async (req, res) => {

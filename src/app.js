@@ -1,4 +1,4 @@
-// src/app.js
+
 import express from "express";
 import cors from "cors";
 import habitRoutes from "./routes/habitRoutes.js";
@@ -9,7 +9,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// healthcheck
+
 app.get("/health", (req, res) => res.json({ ok: true, time: new Date().toISOString() }));
 
 app.use("/api", habitRoutes);
