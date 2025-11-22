@@ -115,3 +115,8 @@ habits.json # stored habits
 index.html # simple UI
 .env # environment variables
 package.json # dependencies
+
+
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d8698c69-9877-43a9-a5f4-91b31c43f376" />
